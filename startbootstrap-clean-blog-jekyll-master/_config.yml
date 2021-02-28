@@ -1,0 +1,25 @@
+title:              arvo1221
+email:              robot21@kakao.com
+description:        study control
+author:             Byeongil Ham
+baseurl:            ""
+url:                "https://arvo1221.github.io"
+
+# Social Profiles
+twitter_username:
+github_username:    arvo1221
+facebook_username:  Byeongil Ham
+instagram_username: arvo1221
+clubhouse_username: arvo21
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site

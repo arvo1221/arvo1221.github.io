@@ -1,4 +1,4 @@
-title Estimation의 필요성
+# Estimation의 필요성
 
 ## 개요
-이 글은 estimation의 필요성을 기술한 글입니다.
+필자가 느끼는 estimation의 필요성을 기술한 글입니다.
